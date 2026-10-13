@@ -10,9 +10,6 @@ Building projects that solve real problems — one bug fix at a time.
 ## 🌱 What I'm Learning
 Exploring AI, machine learning, and full-stack development to build smarter applications.
 
-## ⚡ Fun Fact
-I confidently say "one last change" at least five times before closing my laptop.
-
 ---
 
 ## 💻 Tech Stack
